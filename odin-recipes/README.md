@@ -10,4 +10,4 @@ Recipes used:
 Post-project notes: 
 <p>Pretty easy to do. Good practice for basic structuring of folders and the HTML content itself.</p>
 <p>Good practice for using Git as well, have a good workflow setup using VScode.</p>
-<p>Also added links to recipe pages used.</p>https://www.allrecipes.com/recipe/8517373/ube-cheesecake/
+<p>Also added links to recipe pages used.</p>
