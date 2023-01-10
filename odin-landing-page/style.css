@@ -38,11 +38,52 @@ a {
     color: #e5e7eb;
 }
 
+.hero {
+    display: flex;
+}
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.hero-secondary-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
 button {
     background-color: #3882f6;
     color: #f9faf8;
     border-radius: 8px;
     padding: 4px 16px;
+}
+
+.information {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: bolder;
+}
+
+.container {
+    display: flex;
+}
+
+.quote {
+    background-color: #e5e7eb;
+}
+
+.quotetext {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
 }
 
 footer {
